@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**Raghavi02bala/Raghavi02bala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi 👋 I'm [Raghavibalasubramani](https://raghavi02bala.github.io/portfolio/index-test-added-1-page.html)
 
 
@@ -32,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a great musical nd humor sense, I'm damn good at cosmology, physics nd math in general
 To know more about me. [Click Here](https://github.com/Raghavi02bala/Raghavi02bala/blob/main/Raghavi's%20Resume%20(1).pdf)
+
+
+![Status](https://github-readme-stats.vercel.app/api?username=Raghavi02bala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
