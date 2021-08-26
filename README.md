@@ -13,7 +13,7 @@
 - 📫 How to reach me: raghavibalasubramania@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a great musical nd humor sense, I'm damn good at cosmology, physics nd math in general
-To know more about me. [Click Here](https://raghavi02bala.github.io/resume/Raghavi_s-Resume.html)
+To know more about me. [Click Here](https://github.com/Raghavi02bala/Raghavi02bala/blob/main/Raghavi's%20Resume%20(1).pdf)
 
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Raghavi02bala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
